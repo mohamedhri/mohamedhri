@@ -1,5 +1,6 @@
 <h1 align="center"> 👋 Hi, I’m Mohamed</h1>
-- 👀 I’m interested in technology 
+
+- 👀 I’m interested in technology
 - 🌱  Learning and growing as a Full-Stack Java and Angular developer
 - 💞️ I’m looking to collaborate on web application projects.
 - 📫 You can reach me at muhamedhaouari@gmail.com
