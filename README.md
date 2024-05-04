@@ -3,7 +3,7 @@
 - 👀 I’m interested in technology
 - 🌱  Learning and growing as a Full-Stack Java and Angular developer
 - 💞️ I’m looking to collaborate on web application projects.
-- 📫 You can reach me at muhamedhaouari@gmail.com
+- 📫 You can reach me at haouari.mohamed@outlook.com
 
   <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <!---
